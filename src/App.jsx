@@ -99,7 +99,7 @@ export default function FinishersJournal() {
         <div style={styles.headerInner}>
           <div>
             <div style={styles.logoMark}>◈</div>
-            <h1 style={styles.logoText}>THE WINNER<br /><span style={styles.logoAccent}>JOURNAL</span></h1>
+            <h1 style={styles.logoText}>THE WINNERS<br /><span style={styles.logoAccent}>JOURNAL</span></h1>
           </div>
           <div style={styles.headerRight}>
             <div style={styles.streakBadge}>
